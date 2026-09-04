@@ -36,25 +36,27 @@ We design abstractions that help programmers express their intent clearly, devel
 
 ## Language technology
 
-We investigate language technology through the principles and tools of functional programming. 
-A central contribution is [Grammatical Framework (GF)](https://www.grammaticalframework.org/), a programming language for multilingual grammar applications. GF separates abstract meaning from its expression in individual languages, making it possible to build precise multilingual systems from reusable grammatical descriptions.
-
+We investigate language technology through the principles and tools of functional programming.
+A central contribution is [Grammatical Framework (GF)](https://www.grammaticalframework.org/), a programming language for multilingual grammar applications.
+GF separates abstract meaning from its expression in individual languages, making it possible to build precise multilingual systems from reusable grammatical descriptions.
 Research around GF covers grammar engineering, multilingual generation and translation, controlled natural languages, and the interaction between symbolic language technology and modern machine learning.
+In addition to GF, the group also works with other grammar formalisms, such as Construction grammar and Dependency grammar (in particular, treebanks for Universal dependencies). 
 Applications range from education and public communication to systems that need reliable language generation in many languages.
 
-The group also contributes to education and community-building in multilingual language technology, including the [GF Summer School 2025](https://school.grammaticalframework.org/2025/), which brought together researchers, students and practitioners to learn and work with Grammatical Framework.
-
-### Projects
+Next to grammar formalisms, the language technology group develops tools and algorithms for searching in annotated text collections (known as *corpora*). 
+These tools are primarily used by linguists and researchers in digital humanities, to investigate patterns and trends in language use. 
+This work is done in collaboration with the Swedish national infrastructure Språkbanken.
 
 The group works on [Informath](https://github.com/GrammaticalFramework/informath), which uses GF to translate between formal and informal mathematical languages, supporting both multilingual informalisation and autoformalisation. 
 It also contributes to [MALINCA (Mathematicae Lingua Franca)](https://malinca.gitlabpages.inria.fr/malinca.gitlab.io/index.html), a project developing linguistic interfaces and automated guidance tools that allow mathematicians to communicate with proof assistants in a flexible, semi-formal way.
 
+The group also contributes to education and community-building in multilingual language technology, including the [GF Summer School](https://school.grammaticalframework.org/), which brought together researchers, students and practitioners to learn and work with Grammatical Framework.
+
 ### Research areas
 
-- Multilingual grammar engineering
-- Multilingual generation and translation
-- Controlled natural languages
-- Grammatical Framework and its applications
+- Multilingual grammar engineering, generation and translation
+- Grammatical Framework, Controlled natural languages, and their applications
+- Algorithms for searching in structured, annotated text corpora
 - Neuro-symbolic language technology
 
 ## Usable artificial intelligence
