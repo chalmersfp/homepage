@@ -39,9 +39,11 @@ We design abstractions that help programmers express their intent clearly, devel
 We investigate language technology through the principles and tools of functional programming.
 A central contribution is [Grammatical Framework (GF)](https://www.grammaticalframework.org/), a programming language for multilingual grammar applications.
 GF separates abstract meaning from its expression in individual languages, making it possible to build precise multilingual systems from reusable grammatical descriptions.
-Research around GF covers grammar engineering, multilingual generation and translation, controlled natural languages, and the interaction between symbolic language technology and modern machine learning.
+Research around GF covers grammar engineering, parsing, multilingual generation and translation, controlled natural languages, and the interaction between symbolic language technology and modern machine learning.
 In addition to GF, the group also works with other grammar formalisms, such as Construction grammar and Dependency grammar (in particular, treebanks for Universal dependencies). 
 Applications range from education and public communication to systems that need reliable language generation in many languages.
+
+In addition to the framework itself, the group also coordinates the construction of the [Resource Grammars Library](https://github.com/GrammaticalFramework/gf-rgl) as well as the [GF WordNet](https://cloud.grammaticalframework.org/wordnet/gf-wordnet.html) lexicon. The two together provide a wide coverage for more than 40 languages.
 
 Next to grammar formalisms, the language technology group develops tools and algorithms for searching in annotated text collections (known as *corpora*). 
 These tools are primarily used by linguists and researchers in digital humanities, to investigate patterns and trends in language use. 
