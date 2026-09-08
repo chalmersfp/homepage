@@ -30,9 +30,9 @@ We design abstractions that help programmers express their intent clearly, devel
 - Property-based testing and automated software testing
 - Domain-specific languages
 - Type systems and generic programming
-- Language-based security
 - Hardware design and verification
 - Computer Science education
+- Automated Reasoning
 
 ## Language technology
 
