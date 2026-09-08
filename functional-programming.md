@@ -13,15 +13,15 @@ The Functional Programming unit develops programming languages, methods and tool
 
 ## Functional programming
 
-Functional programming builds software by composing functions and controlling computational effects. 
-Its strong mathematical foundations support concise programs, precise reasoning and powerful tools for testing and verification. 
+Functional programming builds software by composing functions and controlling computational effects.
+Its strong mathematical foundations support concise programs, precise reasoning and powerful tools for testing and verification.
 Our research spans programming-language design and implementation, type systems, software testing, security, domain-specific languages and applications of functional programming.
 
-Chalmers has played a prominent role in the international functional programming community. 
-Members of the group have contributed to the design and development of [Haskell](https://www.haskell.org/) and created widely used research and industrial tools. 
+Chalmers has played a prominent role in the international functional programming community.
+Members of the group have contributed to the design and development of [Haskell](https://www.haskell.org/) and created widely used research and industrial tools.
 These include [QuickCheck](https://hackage.haskell.org/package/QuickCheck), which introduced property-based testing in Haskell and inspired implementations in many other languages, and domain-specific languages for areas such as hardware design and digital signal processing.
 
-Our work combines foundational ideas with practical impact. 
+Our work combines foundational ideas with practical impact.
 We design abstractions that help programmers express their intent clearly, develop methods for finding defects automatically, and apply programming-language technology to problems in industry and society.
 
 ### Research areas
@@ -40,16 +40,16 @@ We investigate language technology through the principles and tools of functiona
 A central contribution is [Grammatical Framework (GF)](https://www.grammaticalframework.org/), a programming language for multilingual grammar applications.
 GF separates abstract meaning from its expression in individual languages, making it possible to build precise multilingual systems from reusable grammatical descriptions.
 Research around GF covers grammar engineering, parsing, multilingual generation and translation, controlled natural languages, and the interaction between symbolic language technology and modern machine learning.
-In addition to GF, the group also works with other grammar formalisms, such as Construction grammar and Dependency grammar (in particular, treebanks for Universal dependencies). 
+In addition to GF, the group also works with other grammar formalisms, such as Construction grammar and Dependency grammar (in particular, treebanks for Universal dependencies).
 Applications range from education and public communication to systems that need reliable language generation in many languages.
 
 In addition to the framework itself, the group also coordinates the construction of the [Resource Grammars Library](https://github.com/GrammaticalFramework/gf-rgl) as well as the [GF WordNet](https://cloud.grammaticalframework.org/wordnet/gf-wordnet.html) lexicon. The two together provide a wide coverage for more than 40 languages.
 
-Next to grammar formalisms, the language technology group develops tools and algorithms for searching in annotated text collections (known as *corpora*). 
-These tools are primarily used by linguists and researchers in digital humanities, to investigate patterns and trends in language use. 
+Next to grammar formalisms, the language technology group develops tools and algorithms for searching in annotated text collections (known as *corpora*).
+These tools are primarily used by linguists and researchers in digital humanities, to investigate patterns and trends in language use.
 This work is done in collaboration with the Swedish national infrastructure Språkbanken.
 
-The group works on [Informath](https://github.com/GrammaticalFramework/informath), which uses GF to translate between formal and informal mathematical languages, supporting both multilingual informalisation and autoformalisation. 
+The group works on [Informath](https://github.com/GrammaticalFramework/informath), which uses GF to translate between formal and informal mathematical languages, supporting both multilingual informalisation and autoformalisation.
 It also contributes to [MALINCA (Mathematicae Lingua Franca)](https://malinca.gitlabpages.inria.fr/malinca.gitlab.io/index.html), a project developing linguistic interfaces and automated guidance tools that allow mathematicians to communicate with proof assistants in a flexible, semi-formal way.
 
 The group also contributes to education and community-building in multilingual language technology, including the [GF Summer School](https://school.grammaticalframework.org/), which brought together researchers, students and practitioners to learn and work with Grammatical Framework.
@@ -63,10 +63,10 @@ The group also contributes to education and community-building in multilingual l
 
 ## Usable artificial intelligence
 
-Our usable AI research develops technical solutions that make artificial intelligence accessible, useful and sustainable in practice. 
+Our usable AI research develops technical solutions that make artificial intelligence accessible, useful and sustainable in practice.
 The work includes multimodal learning from text, images and time series, as well as methods for organising large data collections so that people can search and use them effectively.
 
-Close collaboration with external partners ensures that the research addresses real needs. Application areas include healthcare, automotive systems, banking and smart manufacturing. 
+Close collaboration with external partners ensures that the research addresses real needs. Application areas include healthcare, automotive systems, banking and smart manufacturing.
 This work connects machine learning with data management, interaction and deployment throughout the AI life cycle.
 
 Read more about [AIXLab@Chalmers](https://usableai.se/).
@@ -74,7 +74,7 @@ Read more about [AIXLab@Chalmers](https://usableai.se/).
 ### Research areas
 
 - Multimodal learning from text, images and time series
-- Data lakes, information access and search
+- Data leakes, information access and search
 - Accessible and sustainable AI
 - AI for healthcare
 - Industrial applications in automotive systems, banking and smart manufacturing
@@ -83,15 +83,20 @@ Read more about [AIXLab@Chalmers](https://usableai.se/).
 
 The unit organises a weekly [Functional Programming Talk](https://github.com/chalmersfp/fptalk), bringing together researchers and students interested in programming languages and their applications. Upcoming talks will be announced on the linked page.
 
-In 2020 during the Covid pandemic, the unit organised the [Chalmers Online Functional Programming Seminar Series](https://chalmersfp.github.io/series.html). 
+In 2020 during the Covid pandemic, the unit organised the [Chalmers Online Functional Programming Seminar Series](https://chalmersfp.github.io/series.html).
 The series featured internationally leading researchers and made its recorded talks openly available, helping connect the functional programming community at a time when research activities had moved online.
 
 ## Teaching
 
-Members of the unit teach courses at bachelor's, master's and doctoral levels. 
-The teaching ranges from introductory programming to advanced functional programming, programming-language technology, software testing, language technology, artificial intelligence and related topics.
+Functional programming has a prominent place in our teaching from the beginning of the bachelor's programmes, rather than appearing only as an advanced specialisation.
+Students encounter it in introductory programming and can continue with courses in advanced functional programming, programming-language technology, software testing, artificial intelligence and related topics at bachelor's, master's and doctoral levels.
 
-The unit also supervises bachelor's and master's theses and doctoral research. 
+For students whose previous experience is mainly with imperative programming, functional programming offers a substantially different way to think about software.
+Instead of organising a program primarily as a sequence of commands that update state, students learn to build programs by composing functions and transforming data.
+This perspective introduces ideas such as immutable data, higher-order functions, purity, and advanced type systems, and helps students reason systematically about what programs do.
+Learning more than one programming paradigm also gives students a broader set of tools for choosing suitable abstractions and approaching unfamiliar problems.
+
+The unit also supervises bachelor's and master's theses and doctoral research.
 Students interested in a thesis project in one of our research areas are welcome to contact a member of the unit.
 
 ## Members of the unit
@@ -135,7 +140,7 @@ Students interested in a thesis project in one of our research areas are welcome
 
 ## Head of the unit
 
-**Alex Gerdes**  
+**Alex Gerdes**
 Head of Unit, Functional Programming, Computer Science and Engineering
 
 <!-- Add the unit manager's Chalmers profile, email, telephone number and portrait in the CMS contact block. -->
