@@ -6,13 +6,14 @@ It forms the organisational core of the wider, informal Chalmers FP group, which
 ## Content on this page
 
 1. [Functional programming](#functional-programming)
-2. [Language technology](#language-technology)
-3. [Usable artificial intelligence](#usable-artificial-intelligence)
-4. [Seminars and community](#seminars-and-community)
-5. [Teaching](#teaching)
-6. [Members of the unit](#members-of-the-unit)
-7. [The wider FP group](#the-wider-fp-group)
-8. [Head of the unit](#head-of-the-unit)
+2. [Functional programming for mathematics and science](#functional-programming-for-mathematics-and-science)
+3. [Language technology](#language-technology)
+4. [Usable artificial intelligence](#usable-artificial-intelligence)
+5. [Seminars and community](#seminars-and-community)
+6. [Teaching](#teaching)
+7. [Members of the unit](#members-of-the-unit)
+8. [The wider FP group](#the-wider-fp-group)
+9. [Head of the unit](#head-of-the-unit)
 
 ## Functional programming
 
@@ -36,6 +37,18 @@ We design abstractions that help programmers express their intent clearly, devel
 - Hardware design and verification
 - Computer science education
 - Automated reasoning
+
+## Functional programming for mathematics and science
+
+We also use functional programming, dependent types and interactive theorem proving (such as Agda and Idris) to make mathematics and scientific models precise and checkable.
+Examples include the BSc course and textbook [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath), verified sequential decision problems for climate impact modelling developed with [Nicola Botta](https://www.chalmers.se/en/persons/botta/) at the Potsdam Institute for Climate Impact Research (PIK), and work on dimensional analysis, tensor calculus, and physics simulation.
+
+### Research areas
+
+- Domain-specific languages of mathematics
+- Dependently typed specification and verification of decision problems
+- Functional programming for climate impact research
+- Reliable and efficient scientific computing
 
 ## Language technology
 
@@ -119,7 +132,9 @@ Admission to BSc and MSc programmes is handled nationally (see [application and 
 ### Associate Professors and Senior Lecturers
 
 - [Alex Gerdes](https://www.chalmers.se/en/persons/alexg/), Senior Lecturer
+- [Jonas Almström Duregård](https://www.chalmers.se/en/persons/almstroj/), Senior Lecturer
 - [Krasimir Angelov](https://www.chalmers.se/en/persons/krasimir/), Associate Professor
+- [Nicola Botta](https://www.chalmers.se/en/persons/botta/), Adjunct Associate Professor
 - [Peter Ljunglöf](https://www.chalmers.se/en/persons/peb/), Associate Professor
 
 ### Assistant Professors and Researchers
@@ -170,10 +185,30 @@ Head of Unit, Functional Programming, Computer Science and Engineering
 - Replace member links with Chalmers profile links wherever available so the CMS can display official portraits and titles, as on the Logic and Types page.
 - Consider using the FP winter meeting group photograph from the Chalmers FP website (`docs/images/2025_FP_Winter_Meeting_IMG_2329.jpeg` in the chalmersfp.github.io repository) as the lead image, subject to permission and availability of an accessible high-resolution original. Suggested alt text: "Members of the Chalmers FP group at the 2025 winter meeting."
 - Confirm whether the public title should be "Functional Programming" or "Functional programming" to match Chalmers editorial style.
-- Add a profile link for Xiangyu Wang (no Chalmers profile found online as of 2026-10-01).
+- "Xiangyu Wang, postdoc": the name is not in the intranet organisation chart, Chalmers profiles or mail. (Add a profile link, or fix typo?)
 - Security is mentioned as a research topic but has no matching research area or clearly corresponding member; either add it to the list or drop it.
 - Complete the list in "The wider FP group" if anyone is missing.
 - Consider naming and linking the specific courses in the Teaching section.
+
+## Appendix: longer version of "Functional programming for mathematics and science"
+
+<!-- Optional material for the editor: replace or extend the short section above with parts of this, then remove this appendix before publication. -->
+
+Functional programming and dependent types are also powerful tools for mathematics and the natural sciences.
+The course and textbook [Domain-Specific Languages of Mathematics (DSLsofMath)](https://github.com/DSLsofMath/DSLsofMath) teach BSc students to view mathematical concepts as domain-specific languages, making definitions, types and calculations explicit and checkable.
+
+In climate impact research, the unit works on precise specifications of models and policy problems.
+This includes verified methods for sequential decision problems under uncertainty, developed in dependently typed languages such as Agda and Idris in collaboration with [Nicola Botta](https://www.chalmers.se/en/persons/botta/) at the Potsdam Institute for Climate Impact Research (PIK).
+Earlier work includes the EU project GRACeFUL (Global Systems Rapid Assessment Tools through Constraint Functional Languages, 2015–2018), and the PhD course [Functional Programming and Climate Impact Research (FPClimate)](https://github.com/DSLsofMath/FPClimate) introduces doctoral students to the area.
+
+The unit also collaborates with physicists, for example in the OptiFun project, which combines numeric and symbolic methods to speed up first-principles simulations for fusion research.
+
+### Research areas (optional)
+
+- Domain-specific languages of mathematics
+- Dependently typed specification and verification of decision problems
+- Functional programming for climate impact research
+- Reliable and efficient scientific computing
 
 ## Sources
 
