@@ -40,7 +40,7 @@ We design abstractions that help programmers express their intent clearly, devel
 
 ## Functional programming for mathematics and science
 
-We also use functional programming, dependent types and interactive theorem proving (such as Agda and Idris) to make mathematics and scientific models precise and checkable.
+We also use functional programming, dependent types (for example in Agda and Idris) and interactive theorem proving to make mathematics and scientific models precise and checkable.
 Examples include the BSc course and textbook [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath), verified sequential decision problems for climate impact modelling developed with [Nicola Botta](https://www.chalmers.se/en/persons/botta/) at the Potsdam Institute for Climate Impact Research (PIK), and work on dimensional analysis, tensor calculus, and physics simulation.
 
 ### Research areas
@@ -69,12 +69,12 @@ This work is done in collaboration with the Swedish national infrastructure [Spr
 We work on [Informath](https://github.com/GrammaticalFramework/informath), which uses GF to translate between formal and informal mathematical languages, supporting both multilingual informalisation and autoformalisation.
 We also contribute to [MALINCA (Mathematicae Lingua Franca)](https://malinca.gitlabpages.inria.fr/malinca.gitlab.io/index.html), a project developing linguistic interfaces and automated guidance tools that allow mathematicians to communicate with proof assistants in a flexible, semi-formal way.
 
-We also contribute to education and community-building in multilingual language technology, including the [GF Summer School](https://school.grammaticalframework.org/), which brought together researchers, students and practitioners to learn and work with Grammatical Framework.
+The unit has also contributed to education and community-building in multilingual language technology, including the [GF Summer School](https://school.grammaticalframework.org/), which brought together researchers, students and practitioners to learn and work with Grammatical Framework.
 
 ### Research areas
 
 - Multilingual grammar engineering, generation and translation
-- Grammatical Framework, Controlled natural languages, and their applications
+- Grammatical Framework, controlled natural languages, and their applications
 - Algorithms for searching in structured, annotated text corpora
 - Neuro-symbolic language technology
 
@@ -147,10 +147,10 @@ Admission to BSc and MSc programmes is handled nationally (see [application and 
 - [John Camilleri](https://www.chalmers.se/en/persons/cajohn/), Teaching Fellow
 - [Inari Listenmaa](https://www.chalmers.se/en/persons/inari/), Lecturer
 
-### Doctoral students and Postdocs
+### Doctoral Students and Postdocs
 
-- [Anna Bakidou](https://www.chalmers.se/en/persons/bakidou/), postdoc
 - [Ali Rahimi](https://www.chalmers.se/en/persons/alirahi/), doctoral student
+- [Anna Bakidou](https://www.chalmers.se/en/persons/bakidou/), postdoc
 - [Arsham Gholamzadeh Khoee](https://www.chalmers.se/en/persons/khoee/), doctoral student
 - [Ekaterina Voloshina](https://www.chalmers.se/en/persons/ekavol/), doctoral student
 - [Erik Aerts](https://www.chalmers.se/en/persons/aeerik/), doctoral student
@@ -199,7 +199,8 @@ The course and textbook [Domain-Specific Languages of Mathematics (DSLsofMath)](
 
 In climate impact research, the unit works on precise specifications of models and policy problems.
 This includes verified methods for sequential decision problems under uncertainty, developed in dependently typed languages such as Agda and Idris in collaboration with [Nicola Botta](https://www.chalmers.se/en/persons/botta/) at the Potsdam Institute for Climate Impact Research (PIK).
-Earlier work includes the EU project GRACeFUL (Global Systems Rapid Assessment Tools through Constraint Functional Languages, 2015–2018), and the PhD course [Functional Programming and Climate Impact Research (FPClimate)](https://github.com/DSLsofMath/FPClimate) introduces doctoral students to the area.
+Earlier work includes the EU project GRACeFUL (Global Systems Rapid Assessment Tools through Constraint Functional Languages, 2015–2018).
+The PhD course [Functional Programming and Climate Impact Research (FPClimate)](https://github.com/DSLsofMath/FPClimate) introduces doctoral students to the area.
 
 The unit also collaborates with physicists, for example in the OptiFun project, which combines numeric and symbolic methods to speed up first-principles simulations for fusion research.
 
