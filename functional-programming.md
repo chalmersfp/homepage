@@ -99,8 +99,8 @@ Read more about [AIXLab@Chalmers](https://usableai.se/).
 
 ## Seminars and community
 
-The unit organises a weekly Functional Programming Talk, bringing together researchers and students interested in programming languages and their applications.
-Talks are announced on the [FP mailing list](https://lists.chalmers.se/sympa/info/fp).
+The unit organises a weekly [Functional Programming Talk](https://fptalks.cse.chalmers.se/), bringing together researchers and students interested in programming languages and their applications.
+Upcoming and past talks are listed on the linked page, which also offers a calendar subscription, and talks are announced on the [FP mailing list](https://lists.chalmers.se/sympa/info/fp).
 
 In 2020, during the COVID-19 pandemic, the unit organised the [Chalmers Online Functional Programming Seminar Series](https://chalmersfp.github.io/series.html).
 The series featured internationally leading researchers and made its recorded talks openly available, helping connect the functional programming community at a time when research activities had moved online.
